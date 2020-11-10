@@ -93,16 +93,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "박산희"
-  avatar           : "/assets/images/bio-photo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "전자공학의 개발자 도전기"
+  name             : "노을"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "코드스쿼드 코코아 노을"
   location         : "대한민국"
   email            :
   links:
-    - label: "Email"
+    - label: "68936@naver.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:68936@naver.com"
-    - label: "GitHub"
+    - label: "@sanhee"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sanhee/"
 
